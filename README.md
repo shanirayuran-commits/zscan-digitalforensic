@@ -85,7 +85,7 @@ python zscan_gui.py
   <p align="center"><i>Extracted info</i></p>
 
   <p align="center">
-    <img src="ss/report.png" width="850"/>
+    <img src="ss/reports.png" width="850"/>
   </p>
   <p align="center"><i>Professional report</i></p>
 
